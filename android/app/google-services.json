@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574624758276",
+    "firebase_url": "https://lalan31-4e0ae.firebaseio.com",
+    "project_id": "lalan31-4e0ae",
+    "storage_bucket": "lalan31-4e0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574624758276:android:21022a933315bce6655351",
+        "android_client_info": {
+          "package_name": "com.qerat.lalan31"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574624758276-09dllcc31kfojprhdqnnfp7s13oivq7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZ5rP0Fbenc2o2iOfCj31SQL7othIiTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574624758276-09dllcc31kfojprhdqnnfp7s13oivq7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
